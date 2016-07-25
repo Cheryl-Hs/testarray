@@ -1,4 +1,4 @@
-package collection_others.properties;
+package collection.others.properties;
 
 import java.io.File;
 import java.io.FileNotFoundException;
